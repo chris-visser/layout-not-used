@@ -1,5 +1,12 @@
+<script setup lang="ts">
+definePageMeta({
+  layout: 'different',
+})
+
+</script>
+
 <template>
   <main>
-    <h1>Index page</h1>
+    <PageTitle>About page</PageTitle>
   </main>
 </template>
